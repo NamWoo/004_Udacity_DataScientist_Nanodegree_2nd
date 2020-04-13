@@ -1,0 +1,19 @@
+
+* https://www.one-tab.com/page/96Cc_DGsQMG0XhOJIwSFGg
+* https://www.one-tab.com/page/exkjXGmKRKSB_m9Pg9n3_g
+* https://www.one-tab.com/page/QpuEJCVfSC-1tLd-HUtuOQ
+* https://www.one-tab.com/page/6AQ1FzMPSVSVeJWmTMAL_w
+* https://www.one-tab.com/page/-3gQ_VZbQYCjW3IBcRmbtw
+
+
+
+
+
+* [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [Developer Survey Results
+](https://insights.stackoverflow.com/survey/2019)
+* https://www.kaggle.com/stackoverflow/so-survey-2017
+* https://www.kaggle.com/airbnb/seattle/data
+* https://www.kaggle.com/airbnb/boston#reviews.csv
+* http://insideairbnb.com/get-the-data.html
