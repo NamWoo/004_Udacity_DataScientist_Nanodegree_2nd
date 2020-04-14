@@ -5,7 +5,7 @@
 
 ||Project|Link|
 |:---:|:---:|:---:|
-|first|Write a Data Science Blog Post|[Project Link](https://github.com/NamWoo/004_Udacity_DataScientist_Nanodegree_2nd/blob/master/project_survey.ipynb)|
+|Write a Data Science Blog Post|[Jupyter Link](https://github.com/NamWoo/004_Udacity_DataScientist_Nanodegree_2nd/blob/master/project_survey.ipynb)|[Medium Blog](https://medium.com/@pre3ice/write-a-data-science-blog-post-344cdc866838)
 ||||
 
 
