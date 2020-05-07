@@ -12,6 +12,8 @@
 ## Project First
 *Write a Data Science Blog Post*
 
+2019년 스택오버플로우에 개발자 설문조사를 토대로 분석해보고 블로
+
 ![s1](./project1/stack.PNG)
 ![s2](https://i.stack.imgur.com/qHF2K.png)
 >What Is The Difference Between World and South Korea Stackoverflow Users in 2019
