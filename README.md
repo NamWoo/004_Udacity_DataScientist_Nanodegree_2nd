@@ -1,4 +1,4 @@
-# 004_Udacity_DataScientist_Nanodegree_2nd
+# Write a Data Science Blog Post
 
 
 
